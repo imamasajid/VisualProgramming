@@ -1,0 +1,21 @@
+C:\Users\se\source\repos\mazw game\mazw game\bin\Debug\mazw game.exe.config
+C:\Users\se\source\repos\mazw game\mazw game\bin\Debug\mazw game.exe
+C:\Users\se\source\repos\mazw game\mazw game\bin\Debug\mazw game.pdb
+C:\Users\se\source\repos\mazw game\mazw game\obj\Debug\mazw_game.Form1.resources
+C:\Users\se\source\repos\mazw game\mazw game\obj\Debug\mazw_game.Form2.resources
+C:\Users\se\source\repos\mazw game\mazw game\obj\Debug\mazw_game.Properties.Resources.resources
+C:\Users\se\source\repos\mazw game\mazw game\obj\Debug\maze game.csproj.GenerateResource.Cache
+C:\Users\se\source\repos\mazw game\mazw game\obj\Debug\maze game.csproj.CoreCompileInputs.cache
+C:\Users\se\source\repos\mazw game\mazw game\obj\Debug\mazw game.exe
+C:\Users\se\source\repos\mazw game\mazw game\obj\Debug\mazw game.pdb
+C:\Users\Sulman\Desktop\Imama\mazw game\mazw game\bin\Debug\mazw game.exe.config
+C:\Users\Sulman\Desktop\Imama\mazw game\mazw game\bin\Debug\mazw game.exe
+C:\Users\Sulman\Desktop\Imama\mazw game\mazw game\bin\Debug\mazw game.pdb
+C:\Users\Sulman\Desktop\Imama\mazw game\mazw game\obj\Debug\maze game.csprojResolveAssemblyReference.cache
+C:\Users\Sulman\Desktop\Imama\mazw game\mazw game\obj\Debug\mazw_game.Form1.resources
+C:\Users\Sulman\Desktop\Imama\mazw game\mazw game\obj\Debug\mazw_game.Form2.resources
+C:\Users\Sulman\Desktop\Imama\mazw game\mazw game\obj\Debug\mazw_game.Properties.Resources.resources
+C:\Users\Sulman\Desktop\Imama\mazw game\mazw game\obj\Debug\maze game.csproj.GenerateResource.cache
+C:\Users\Sulman\Desktop\Imama\mazw game\mazw game\obj\Debug\maze game.csproj.CoreCompileInputs.cache
+C:\Users\Sulman\Desktop\Imama\mazw game\mazw game\obj\Debug\mazw game.exe
+C:\Users\Sulman\Desktop\Imama\mazw game\mazw game\obj\Debug\mazw game.pdb

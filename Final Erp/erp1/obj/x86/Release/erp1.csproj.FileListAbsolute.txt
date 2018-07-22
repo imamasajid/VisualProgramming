@@ -1,0 +1,6 @@
+C:\Users\Saifullah khan\documents\visual studio 2010\Projects\erp1\erp1\obj\x86\Release\erp1.Form1.resources
+C:\Users\Saifullah khan\documents\visual studio 2010\Projects\erp1\erp1\obj\x86\Release\erp1.Form2.resources
+C:\Users\Saifullah khan\documents\visual studio 2010\Projects\erp1\erp1\obj\x86\Release\erp1.Form3.resources
+C:\Users\Saifullah khan\documents\visual studio 2010\Projects\erp1\erp1\obj\x86\Release\erp1.Form4.resources
+C:\Users\Saifullah khan\documents\visual studio 2010\Projects\erp1\erp1\obj\x86\Release\erp1.Properties.Resources.resources
+C:\Users\Saifullah khan\documents\visual studio 2010\Projects\erp1\erp1\obj\x86\Release\erp1.csproj.GenerateResource.Cache

@@ -1,0 +1,54 @@
+C:\Users\Saifullah khan\AppData\Local\Temporary Projects\erp1\bin\Debug\erp1.exe
+C:\Users\Saifullah khan\AppData\Local\Temporary Projects\erp1\bin\Debug\erp1.pdb
+C:\Users\Saifullah khan\AppData\Local\Temporary Projects\erp1\obj\x86\Debug\erp1.Form1.resources
+C:\Users\Saifullah khan\AppData\Local\Temporary Projects\erp1\obj\x86\Debug\erp1.Properties.Resources.resources
+C:\Users\Saifullah khan\AppData\Local\Temporary Projects\erp1\obj\x86\Debug\erp1.csproj.GenerateResource.Cache
+C:\Users\Saifullah khan\AppData\Local\Temporary Projects\erp1\obj\x86\Debug\erp1.exe
+C:\Users\Saifullah khan\AppData\Local\Temporary Projects\erp1\obj\x86\Debug\erp1.pdb
+C:\Users\Saifullah khan\AppData\Local\Temporary Projects\erp1\obj\x86\Debug\erp1.Form2.resources
+C:\Users\Saifullah khan\AppData\Local\Temporary Projects\erp1\obj\x86\Debug\erp1.Form3.resources
+C:\Users\Saifullah khan\documents\visual studio 2010\Projects\erp1\erp1\obj\x86\Debug\erp1.exe
+C:\Users\Saifullah khan\documents\visual studio 2010\Projects\erp1\erp1\obj\x86\Debug\erp1.pdb
+C:\Users\Saifullah khan\documents\visual studio 2010\Projects\erp1\erp1\obj\x86\Debug\erp1.Form1.resources
+C:\Users\Saifullah khan\documents\visual studio 2010\Projects\erp1\erp1\obj\x86\Debug\erp1.Form2.resources
+C:\Users\Saifullah khan\documents\visual studio 2010\Projects\erp1\erp1\obj\x86\Debug\erp1.Form3.resources
+C:\Users\Saifullah khan\documents\visual studio 2010\Projects\erp1\erp1\obj\x86\Debug\erp1.Properties.Resources.resources
+C:\Users\Saifullah khan\documents\visual studio 2010\Projects\erp1\erp1\obj\x86\Debug\erp1.csproj.GenerateResource.Cache
+C:\Users\Saifullah khan\documents\visual studio 2010\Projects\erp1\erp1\bin\Debug\erp1.exe
+C:\Users\Saifullah khan\documents\visual studio 2010\Projects\erp1\erp1\bin\Debug\erp1.pdb
+C:\Users\Saifullah khan\documents\visual studio 2010\Projects\erp1\erp1\obj\x86\Debug\erp1.Form4.resources
+C:\Users\Saifullah khan\documents\visual studio 2010\Projects\erp1\erp1\obj\x86\Debug\erp1.Form5.resources
+C:\Users\Saifullah khan\documents\visual studio 2010\Projects\erp1\erp1\obj\x86\Debug\erp1.csprojResolveAssemblyReference.cache
+C:\Users\Saifullah khan\documents\visual studio 2010\Projects\erp1\erp1\obj\x86\Debug\erp1.Form6.resources
+C:\Users\Saifullah khan\documents\visual studio 2010\Projects\erp1\erp1\obj\x86\Debug\erp1.Form7.resources
+C:\Users\Saifullah khan\documents\visual studio 2010\Projects\erp1\erp1\obj\x86\Debug\erp1.Form8.resources
+C:\Users\Saifullah khan\documents\visual studio 2010\Projects\erp1\erp1\obj\x86\Debug\erp1.Form9.resources
+C:\Users\Saifullah khan\documents\visual studio 2010\Projects\erp1\erp1\obj\x86\Debug\erp1.Form10.resources
+C:\Users\Saifullah khan\documents\visual studio 2010\Projects\erp1\erp1\obj\x86\Debug\erp1.Form11.resources
+C:\Users\Saifullah khan\documents\visual studio 2010\Projects\erp1\erp1\obj\x86\Debug\erp1.Form12.resources
+H:\erp1\erp1\obj\x86\Debug\erp1.exe
+H:\erp1\erp1\obj\x86\Debug\erp1.pdb
+D:\erp1\erp1\obj\x86\Debug\erp1.exe
+D:\erp1\erp1\obj\x86\Debug\erp1.pdb
+E:\erp1\erp1\obj\x86\Debug\erp1.exe
+E:\erp1\erp1\obj\x86\Debug\erp1.pdb
+E:\erp1\erp1\obj\x86\Debug\erp1.csprojResolveAssemblyReference.cache
+E:\erp1\erp1\obj\x86\Debug\erp1.Form1.resources
+E:\erp1\erp1\obj\x86\Debug\erp1.Form10.resources
+E:\erp1\erp1\obj\x86\Debug\erp1.Form11.resources
+E:\erp1\erp1\obj\x86\Debug\erp1.Form12.resources
+E:\erp1\erp1\obj\x86\Debug\erp1.Form13.resources
+E:\erp1\erp1\obj\x86\Debug\erp1.Form2.resources
+E:\erp1\erp1\obj\x86\Debug\erp1.Form3.resources
+E:\erp1\erp1\obj\x86\Debug\erp1.Form4.resources
+E:\erp1\erp1\obj\x86\Debug\erp1.Form5.resources
+E:\erp1\erp1\obj\x86\Debug\erp1.Form6.resources
+E:\erp1\erp1\obj\x86\Debug\erp1.Form7.resources
+E:\erp1\erp1\obj\x86\Debug\erp1.Form8.resources
+E:\erp1\erp1\obj\x86\Debug\erp1.Form9.resources
+E:\erp1\erp1\obj\x86\Debug\erp1.Properties.Resources.resources
+E:\erp1\erp1\obj\x86\Debug\erp1.csproj.GenerateResource.Cache
+E:\erp1\erp1\bin\Debug\erp1.exe
+E:\erp1\erp1\bin\Debug\erp1.pdb
+F:\Final Erp\erp1\obj\x86\Debug\erp1.exe
+F:\Final Erp\erp1\obj\x86\Debug\erp1.pdb
